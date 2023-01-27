@@ -1,0 +1,4 @@
+blackIp:
+  continueCounts: 10 #IP连续请求最大次数
+  timeInterval: 10 #ip判断的时间间隔（s）
+  limitTimes: 15 #限制的时间（s）
